@@ -7,7 +7,7 @@ To address these limitations, we propose Des4Pos, a novel two-stage localization
 \indent Experiments on the KITTI360Pose test set demonstrate that Des4Pos achieves state-of-the-art performance in text-to-point-cloud place recognition. Specifically, it attains a top-1 accuracy of 40\% and a top-10 accuracy of 77\% under a 5-meter radius threshold, surpassing the best existing methods by 7\% and 7\%, respectively.
 
 ###  Structure overview
-<img width="899" alt="image" src="https://github.com/user-attachments/assets/9e2e2dca-a5b3-4b00-832e-c302c4eddce8" />
+![image](https://github.com/user-attachments/assets/74a1d27c-6f10-4204-bce2-3f92690c307b)
 
 
 ###  Experimental performance
